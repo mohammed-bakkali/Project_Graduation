@@ -1,0 +1,30 @@
+As an administrator, one of your responsibilities is to ensure that relevant and accurate information is collected from patients. By asking pertinent questions, you can gather additional details that are crucial for diagnosis and treatment. Here are some examples of pertinent questions you can ask patients:
+
+    Medical History:
+
+    Do you have any pre-existing medical conditions or chronic illnesses?
+    Are you currently taking any medications? If yes, please provide the names and dosages.
+    Have you undergone any surgeries or medical procedures in the past? If yes, please provide details.
+    Do you have any known allergies to medications, food, or other substances?
+    Have you experienced any significant medical events or hospitalizations recently?
+
+    Symptoms and Complaints:
+
+    What are the main symptoms or complaints you are experiencing?
+    When did the symptoms first appear? Have they worsened or changed since then?
+    Are there any triggers or specific circumstances associated with your symptoms?
+    Have you noticed any patterns or changes in the symptoms over time?
+    Have you tried any self-treatment or remedies for your symptoms?
+
+    Lifestyle and Habits:
+
+    Are you currently following any specific diet or exercise regimen?
+    Do you smoke or consume alcohol? If yes, how frequently?
+    Are there any significant environmental or occupational exposures that might be relevant to your condition?
+
+    Family History:
+
+    Are there any notable medical conditions or diseases that run in your family?
+    Are your parents, siblings, or close relatives experiencing any health issues?
+
+Remember to maintain a respectful and empathetic approach while asking these questions, as patients may have concerns or sensitivities related to their health. Active listening and creating a comfortable environment can help patients feel more at ease and open to sharing relevant information.

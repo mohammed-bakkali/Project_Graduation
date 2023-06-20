@@ -1,0 +1,112 @@
+/* Start Global Rules */
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.container .left img{
+    width: 611px;
+    height: 515px;
+    max-width: 100%;
+}
+.container .left p{
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    backdrop-filter: blur(2px);
+}
+
+form input{
+    display: block;
+    margin-bottom: 21px;
+    background: #FEFEFE;
+    border: 1px solid rgba(0, 0, 0, 0.38);
+    border-radius: 50px;
+    width: 253px;
+    height: 38px;
+    outline: none;
+}
+.left .sign-up{
+    background-color: black;
+    color: #f11;
+    padding: 15px 20px;
+    display: block;
+    width: fit-content;
+    margin: 30px auto;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.right{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 65px rgba(102, 69, 79, 0.22);
+    border-radius: 50px;
+    position: relative;
+    height: 540px;
+    top: 64px;
+    padding: 60px;
+    text-align: center;
+}
+.right .logo{
+    width: 65px;
+    margin-bottom: 20px;
+}
+.right h3{
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+}
+.right h2{
+    padding-bottom: 31px;
+}
+.right form input{
+    padding-left: 13px;
+}
+.right #error {
+    color: red;
+    /* width: 276px; */
+    line-height: 1.7;
+}
+
+.right  button {
+    width: 100%;
+    padding: 15px 20px;
+    display: block;
+    margin: 30px auto;
+    border-radius: 0.5rem;
+    color: white;
+    font-weight: 500;
+    transition: all .40s ease;
+    border: 1px solid red;
+    cursor: pointer;
+    background: red;
+    outline: none;
+}
+.right  button:hover{
+    transform: scale(1.01) translateY(-5px);
+    background: transparent;
+    color: black;
+}
+
+/* End Global Rules */
